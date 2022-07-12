@@ -47,3 +47,10 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdydwn5390&count_bg=%23FF88B6&title_bg=%23DDDDDD&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
+<br>
+<hr>
+
+![Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dydwn5390&layout=compact&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dydwn5390&layout=compact&theme=dracula)
+
