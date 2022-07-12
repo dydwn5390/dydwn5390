@@ -49,8 +49,17 @@
 </p>
 
 <br>
+
+<h3 align="center">🌱 Remarks 🌱</h3> 
+
 <hr>
 
-![Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dydwn5390&layout=compact&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dydwn5390&layout=compact&theme=dracula)
+<div align="center">
+
+<a href="https://velog.io/@holicme7"><img align="left" src="https://velog-readme-stats.vercel.app/api/list?name=holicme7"/></a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydwn5390&theme=dracula&layout=compact&show_icons=true"/>
+
+</div>
+
 
